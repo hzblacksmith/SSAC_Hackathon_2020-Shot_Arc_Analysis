@@ -6,7 +6,7 @@
 ## Motivation
 Contested shots have lower FG% than open shots as we all know. Yet, the current ways of evaluating shot performances (FG%, Offensive/Defensive Ratings) reflect the binary result of shots only. What are the factors that lead to those binary results? And what does "contest" really mean?
 
-As shown in previous [research](https://arxiv.org/abs/1905.00822), it is shown that the arcs of contested shots are generally differnet from those of open shots. More consistent release angles lead to a higher shooting percantage.
+As shown in previous [research](https://arxiv.org/abs/1905.00822), it is shown that the arcs of contested shots are generally different from those of open shots. More consistent release angles lead to a higher shooting percantage.
 
 ## Methodology
 We are given the ball tracking data of twelve NCAA games provided by Shot Tracker.
